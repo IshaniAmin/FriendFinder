@@ -14,7 +14,7 @@ module.exports = function(app) {
 		var friendMatch = {
 	  		name: "",
 	  		photo: "",
-	  		difference: 200
+	  		difference: 50
 	  	}
 
 		var newPerson = req.body;
